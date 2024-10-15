@@ -1,289 +1,189 @@
 {
 	"basics": {
-		"name": "Nicolás Battaglia",
-		"label": "Javascript & Deno Engineer with +10 years of experience",
-		"image": "/me.webp",
-		"email": "nicobattmdq@gmail.com",
-		"phone": "+34 617473892",
-		"url": "https://nicobatt.vercel.app",
-		"summary": "I like Javascript, Deno and fast websites. I love working on small pieces of code improving performance or memory problems & checking new versions of node/ecma to understand what new ways to solve problems exist, however, what I value most in my career are the human relationships I've built along the way, I firmly believe that social skills are paramount. I have worked in different environments: from start-ups to multinational companies. I try to collaborate with the open source tools that I use. Actually learning Rust & Astro. I live in Barcelona, Spain.",
-		"location": {
-			"address": "",
-			"postalCode": "08820",
-			"city": "Poblesec",
-			"countryCode": "ES",
-			"region": "España"
+	  "name": "Yocxy De la Cruz Miguez",
+	  "label": "Computer Science Engineer with +10 years of experience",
+	  "image": "/me.webp",
+	  "email": "rilkemobile85@gmail.com",
+	  "phone": "+598 98051040",
+	  "url": "https://www.linkedin.com/in/yocxy",
+	  "summary": "I am a Computer Science Engineer with a deep understanding of software development, network administration, and economic systems. I am proficient in technologies like Java, ASP.NET, C#, PHP, and SQL. Over the years, I have worked with multinational companies and local businesses, improving their IT infrastructure. I'm AWS certified, and highly skilled in database management and IT security. Currently, I am focusing on enhancing my skills in cloud technologies and backend systems.",
+	  "location": {
+		"address": "Calle Nicaragua 1859 barrio Centro",
+		"postalCode": "11000",
+		"city": "Montevideo",
+		"countryCode": "UY",
+		"region": "Uruguay"
+	  },
+	  "profiles": [
+		{
+		  "network": "LinkedIn",
+		  "username": "yocxy",
+		  "url": "https://www.linkedin.com/in/yocxy"
 		},
-		"profiles": [
-			{
-				"network": "LinkedIn",
-				"username": "nicobattaglia",
-				"url": "https://linkedin.com/in/nicobattaglia"
-			},
-			{
-				"network": "GitHub",
-				"username": "zk182",
-				"url": "https://github.com/zk182"
-			},
-			{
-				"network": "Stackoverflow",
-				"username": "nicolasBattaglia",
-				"url": "https://stackoverflow.com/users/13227989/nicol%c3%a1s-battaglia"
-			}
-		]
+		{
+		  "network": "GitHub",
+		  "username": "yocxydev",
+		  "url": "https://github.com/yocxydev"
+		}
+	  ]
 	},
 	"work": [
-		{
-			"name": "Denode",
-			"url": "https://denode.com/",
-			"position": "Fullstack Developer",
-			"startDate": "2022-09-01",
-			"endDate": null,
-			"summary": "During my period at Denode as a Fullstack Developer, I played a key role in developing and enhancing innovative applications. My work included building and maintaining complex systems using Node.js and React, which significantly improved user experience and operational efficiency. I contributed to high-impact projects, such as a background removal app and a commercial gaming platform, demonstrating my ability to deliver robust solutions and manage full project lifecycles from conception to deployment.",
-			"highlights": ["First usage of Deno as professional"]
-		},
-		{
-			"name": "Security Scorecard",
-			"position": "Backend Developer",
-			"url": "https://securityscorecard.com/",
-			"startDate": "2021-11-01",
-			"endDate": "2022-09-01",
-			"summary": "At SecurityScorecard, I served as a Senior Platform Backend Engineer for 1 year and 5 months. During my tenure, I developed a comprehensive rate limit solution that was implemented organization-wide, effectively tracking the use of various endpoints and functions across different repositories. This solution enabled us to segment access based on user type, enhancing security and efficiency. Additionally, I worked on the Cyber Risk Quantification (CRQ) product, which helps customers understand cyber risk in financial terms.",
-			"highlights": ["Introduced into Terraform"]
-		},
-		{
-			"name": "Mural",
-			"url": "https://mural.co/",
-			"position": "Senior Core Platform Developer",
-			"startDate": "2020-11-01",
-			"endDate": "2021-10-01",
-			"summary": "During my one-year tenure at MURAL, I contributed as both a Core Platform Developer and a Workflows Developer. In the Core Platform team, I focused on enhancing MURAL's extensibility and integrations, making it more capable and integral to the workflow of various teams.",
-			"highlights": [
-				"Learned how to E2E test using Cucumber",
-				"Meet Kyle Simpson :)"
-			]
-		},
-		{
-			"name": "Spark Digital",
-			"url": "https://intive.com/",
-			"position": "Senior Software Engineer",
-			"startDate": "2018-08-01",
-			"endDate": "2020-11-01",
-			"summary": "I led backend implementations, using node.js mainly. I co-founded the Ray Initiative, an internal project incubator aimed at fostering employee professional development through collaborative projects.",
-			"highlights": ["First node client", "Lead incubator initiative"]
-		},
-		{
-			"name": "Globant",
-			"url": "https://www.globant.com/",
-			"position": ".Net Developer",
-			"startDate": "2015-02-01",
-			"endDate": "2018-08-01",
-			"summary": "Work for several clients such as Deloitte, using .Net technology.",
-			"highlights": ["First big IT company"]
-		}
+	  {
+		"name": "PackExpress Uruguay SAS",
+		"url": "https://www.packexpress.com.uy",
+		"position": "CRM ERP and Company Administration",
+		"startDate": "2023-05-01",
+		"endDate": "2023-10-01",
+		"summary": "Managed hosting servers, developed websites, and an online store. Handled banking accounts and developed the invoicing system using ASP.NET C#, PHP, and JavaScript with barcodes and QR codes.",
+		"highlights": ["Developed the invoicing system", "Optimized applications"]
+	  },
+	  {
+		"name": "BSU Embajada de Brasil Mercosur",
+		"position": "CCTV IPTV Monitoring and Security",
+		"startDate": "2021-09-01",
+		"endDate": "2023-05-01",
+		"summary": "Supervised and managed security and monitoring systems for the Brazilian Embassy.",
+		"highlights": ["Maintained CCTV systems"]
+	  },
+	  {
+		"name": "Limport Montevideo",
+		"position": "CCTV IPTV Monitoring and Security",
+		"startDate": "2021-03-01",
+		"endDate": "2021-08-01",
+		"summary": "Installed and maintained security equipment for large companies.",
+		"highlights": ["Managed security equipment for large enterprises"]
+	  },
+	  {
+		"name": "Emgef Matanzas",
+		"position": "Computer Science Specialist",
+		"startDate": "2016-03-01",
+		"endDate": "2018-01-01",
+		"summary": "Developed SQL-based systems for economic sectors and managed networks.",
+		"highlights": ["Implemented network solutions", "Developed SQL systems"]
+	  }
 	],
 	"volunteer": [
-		{
-			"organization": "Organization",
-			"position": "Volunteer",
-			"url": "https://organization.com/",
-			"startDate": "2012-01-01",
-			"endDate": "2013-01-01",
-			"summary": "Description…",
-			"highlights": ["Awarded 'Volunteer of the Month'"]
-		}
+	  {
+		"organization": "Open Source Project",
+		"position": "Contributor",
+		"url": "https://opensource.org",
+		"startDate": "2020-01-01",
+		"endDate": "2021-01-01",
+		"summary": "Contributed to several open source projects, including bug fixes and new features.",
+		"highlights": ["Improved project efficiency", "Added key features"]
+	  }
 	],
 	"education": [
-		{
-			"institution": "Universidad Fasta",
-			"url": "https://www.ufasta.edu.ar/",
-			"area": "Systems Engineer",
-			"studyType": "Bachelor",
-			"startDate": "2008-01-01",
-			"endDate": "2017-01-01",
-			"score": "4.0"
-		}
+	  {
+		"institution": "Universidad de las Ciencias Informáticas Habana",
+		"url": "https://www.uci.cu/",
+		"area": "Computer Science Engineering",
+		"studyType": "Bachelor",
+		"startDate": "2003-09-01",
+		"endDate": "2008-07-01",
+		"score": "4.0",
+		"courses": [
+		  "Database systems and teleinformatics",
+		  "Oracle Suite and Requisit Pro database projects"
+		]
+	  }
 	],
 	"awards": [
-		{
-			"title": "Award",
-			"date": "2014-11-01",
-			"awarder": "Company",
-			"summary": "There is no spoon."
-		}
+	  {
+		"title": "Outstanding Developer",
+		"date": "2014-11-01",
+		"awarder": "Company",
+		"summary": "Recognized for outstanding contributions to software development."
+	  }
 	],
 	"certificates": [
-		{
-			"name": "Certificate",
-			"date": "2021-11-07",
-			"issuer": "Company",
-			"url": "https://certificate.com"
-		}
-	],
-	"publications": [
-		{
-			"name": "Publication",
-			"publisher": "Company",
-			"releaseDate": "2014-10-01",
-			"url": "https://publication.com",
-			"summary": "Description…"
-		}
+	  {
+		"name": "AWS Certified Solutions Architect",
+		"date": "2023-01-01",
+		"issuer": "Amazon Web Services",
+		"url": "https://aws.amazon.com"
+	  },
+	  {
+		"name": "Cisco Certified Network Associate (CCNA)",
+		"date": "2016-01-01",
+		"issuer": "Cisco",
+		"url": "https://www.cisco.com"
+	  }
 	],
 	"skills": [
-		{
-			"name": "JavaScript",
-			"level": "Master",
-			"keywords": ["Web Development", "Frontend", "Backend", "Fullstack"]
-		},
-		{
-			"name": "Node",
-			"level": "Advanced",
-			"keywords": ["Web Development", "Backend", "JavaScript", "Server Side"]
-		},
-		{
-			"name": "Deno",
-			"level": "Medium",
-			"keywords": ["Web Development", "Backend", "JavaScript", "Server Side"]
-		},
-		{
-			"name": "Aws",
-			"level": "Advanced",
-			"keywords": ["Web Development", "Backend"]
-		},
-		{
-			"name": "Stripe",
-			"level": "Medium",
-			"keywords": [
-				"Web Development",
-				"Payments",
-				"Backend",
-				"JavaScript",
-				"Server Side"
-			]
-		},
-		{
-			"name": "Docker",
-			"level": "Advanced",
-			"keywords": ["Docker", "Deployment"]
-		},
-		{
-			"name": "Terraform",
-			"level": "Medium",
-			"keywords": ["Docker", "Deployment"]
-		},
-		{
-			"name": "TypeScript",
-			"level": "Advanced",
-			"keywords": [
-				"Web Development",
-				"Frontend",
-				"Backend",
-				"JavaScript Superset"
-			]
-		},
-		{
-			"name": "React",
-			"level": "Medium",
-			"keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
-		},
-		{
-			"name": "Graphql",
-			"level": "Basic",
-			"keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
-		},
-		{
-			"name": "Tailwind",
-			"level": "Basic",
-			"keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
-		},
-		{
-			"name": "Redis",
-			"level": "Medium",
-			"keywords": ["Databases", "SQL", "Data Storage", "Backend"]
-		},
-		{
-			"name": "MySQL",
-			"level": "Advanced",
-			"keywords": ["Databases", "SQL", "Data Storage", "Backend"]
-		},
-		{
-			"name": "Mongo",
-			"level": "Advanced",
-			"keywords": ["Databases", "NoSQL", "Data Storage", "Backend"]
-		},
-		{
-			"name": "Git",
-			"level": "Advanced",
-			"keywords": ["Version Control", "Collaboration", "Source Code"]
-		},
-		{
-			"name": "GitHub",
-			"level": "Advanced",
-			"keywords": ["Version Control", "Collaboration", "Source Code", "Git"]
-		}
+	  {
+		"name": "Java",
+		"level": "Advanced",
+		"keywords": ["Backend", "Web Development"]
+	  },
+	  {
+		"name": "ASP.NET",
+		"level": "Advanced",
+		"keywords": ["Web Development", "Backend"]
+	  },
+	  {
+		"name": "C#",
+		"level": "Advanced",
+		"keywords": ["Web Development", "Backend"]
+	  },
+	  {
+		"name": "SQL",
+		"level": "Advanced",
+		"keywords": ["Databases", "Backend"]
+	  },
+	  {
+		"name": "AWS",
+		"level": "Certified",
+		"keywords": ["Cloud", "DevOps"]
+	  },
+	  {
+		"name": "Git",
+		"level": "Advanced",
+		"keywords": ["Version Control", "Collaboration", "Source Code"]
+	  }
 	],
 	"languages": [
-		{
-			"language": "Spanish",
-			"fluency": "Native speaker"
-		},
-		{
-			"language": "English",
-			"fluency": "Advanced"
-		}
+	  {
+		"language": "Spanish",
+		"fluency": "Native speaker"
+	  },
+	  {
+		"language": "English",
+		"fluency": "Advanced"
+	  }
 	],
 	"interests": [
-		{
-			"name": "Guitar",
-			"keywords": ["Frets", "Music"]
-		}
+	  {
+		"name": "Guitar",
+		"keywords": ["Music", "Performance"]
+	  }
 	],
 	"references": [
-		{
-			"name": "Jane Doe",
-			"reference": "Reference…"
-		}
+	  {
+		"name": "Jane Doe",
+		"reference": "Reference available upon request."
+	  }
 	],
 	"projects": [
-		{
-			"name": "Remove Background",
-			"isActive": true,
-			"description": "Remove.bg uses artificial intelligence to automatically modify backgrounds or isolate subjects in photos.",
-			"highlights": ["IA", "Stripe", "Fullstack"],
-			"url": "https://www.remove.bg/",
-			"github": ""
-		},
-		{
-			"name": "Mural",
-			"isActive": true,
-			"description": "Mural is a visual collaboration platform designed to enhance teamwork and creativity. It offers virtual whiteboards where teams can brainstorm, plan projects, and visualize ideas together, regardless of their physical location.",
-			"highlights": ["+1M users", "NoSql", "Cucumber", "Backend"],
-			"url": "https://mural.co/",
-			"github": ""
-		},
-		{
-			"name": "Norton Reader",
-			"isActive": true,
-			"description": "Norton provides an interactive reading experience for students, allowing them to take notes, highlight text, and access books offline.",
-			"highlights": ["Nest.js", "Fastify", "Scrapping"],
-			"url": "https://wwnorton.com/reader",
-			"github": ""
-		},
-		{
-			"name": "Cyber Risk Quantification",
-			"isActive": true,
-			"description": "SecurityScorecard’s CxRQ capabilities help customers understand the financial impact of a cyber-attack, gain insight into the probability of incidents over time and quantify the reduction in expected losses if issues are resolved.",
-			"highlights": ["Terraform", "Aws", "Typescript"],
-			"url": "https://securityscorecard.com/platform/cyber-risk-quantification/",
-			"github": ""
-		},
-		{
-			"name": "Bento",
-			"isActive": true,
-			"description": "Bento is a free data visualization tool designed for education leaders to easily access, explore, and understand national and state-level survey data from teachers and principals.",
-			"highlights": ["Socket.io", "DynamoDb", "Lambda", "SNS"],
-			"url": "https://www.getbento.info/",
-			"github": ""
-		}
+	  {
+		"name": "PackExpress System",
+		"isActive": true,
+		"description": "An invoicing and delivery system using ASP.NET, C#, and barcodes.",
+		"highlights": [
+		  "Developed the entire system from scratch",
+		  "Incorporated QR codes and barcodes for tracking"
+		],
+		"url": "https://www.packexpress.com.uy"
+	  },
+	  {
+		"name": "ECOMAVI Web Development",
+		"isActive": true,
+		"description": "Developed websites and managed network systems for ECOMAVI.",
+		"highlights": [
+		  "Reduced website load times by 40%",
+		  "Improved network security"
+		],
+		"url": "https://www.ecomavi.com"
+	  }
 	]
-}
+  }
