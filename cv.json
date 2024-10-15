@@ -217,6 +217,22 @@
 			]
 		},
 		{
+			"name": "JavaScript",
+			"level": "Advanced",
+			"keywords": [
+				"Version Control",
+				"Collaboration"
+			]
+		},
+		{
+			"name": "Strappi and React Native and other kind of frameworks",
+			"level": "Advanced",
+			"keywords": [
+				"Version Control",
+				"Collaboration"
+			]
+		},
+		{
 			"name": "AWS",
 			"level": "Certified",
 			"keywords": [
