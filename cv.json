@@ -1,293 +1,245 @@
 {
 	"basics": {
-		"name": "Yocxy De la Cruz Miguez",
-		"label": "Computer Science Engineer",
-		"image": "/me.webp",
-		"email": "rilkemobile85@gmail.com",
-		"phone": "+598 99451418",
-		"url": "https://www.linkedin.com/in/yocxi",
-		"summary": "Computer Science Engineer with experience in software development, network administration, and economic systems. Skilled in technologies such as Java, ASP.NET, C#, PHP, SQL, and more. Experience working with multinational and local companies. Certified in AWS and highly skilled in database management and IT security. Currently learning Rust & Astro. I live in Montevideo, Uruguay.",
-		"location": {
-			"address": "Calle Nicaragua 1859 barrio Centro",
-			"postalCode": "11000",
-			"city": "Montevideo",
-			"countryCode": "UY",
-			"region": "Uruguay"
-		},
-		"profiles": [
-			{
-				"network": "LinkedIn",
-				"username": "yocxy",
-				"url": "https://www.linkedin.com/in/yocxi"
-			}
-		]
+	  "name": "Yocxy De la Cruz Miguez",
+	  "label": "Computer Science Engineer",
+	  "image": "/me.webp",
+	  "email": "rilkemobile85@gmail.com",
+	  "phone": "+598 99451418",
+	  "url": "https://www.linkedin.com/in/yocxi",
+	  "summary": "Computer Science Engineer with over 6 years of full-stack development experience. Skilled in Java, Spring Framework (Core, MVC, Security, JPA), Hibernate, Angular, JavaScript, AWS, and more. Experienced with multinational companies, focusing on cloud services, database management, IT security, and web development. Certified AWS Developer and Architect. Based in Montevideo, Uruguay.",
+	  "location": {
+		"address": "Calle Nicaragua 1859 barrio Centro",
+		"postalCode": "11000",
+		"city": "Montevideo",
+		"countryCode": "UY",
+		"region": "Uruguay"
+	  },
+	  "profiles": [
+		{
+		  "network": "LinkedIn",
+		  "username": "yocxy",
+		  "url": "https://www.linkedin.com/in/yocxi"
+		}
+	  ]
 	},
 	"work": [
-		{
-			"name": "PackExpress Uruguay SAS",
-			"url": "https://www.packexpress.com.uy",
-			"position": "CRM ERP and Company Administration",
-			"startDate": "2023-05-01",
-			"endDate": "2023-10-01",
-			"summary": "Managed hosting servers, developed websites and an online store, handled banking accounts, and developed the invoicing system in ASP.NET C#, PHP, and JavaScript with barcodes and QR codes.",
-			"highlights": [
-				"Developed web applications using ASP.NET C#.",
-				"Implemented an invoicing system with QR and barcodes.",
-				"Optimized existing applications."
-			]
-		},
-		{
-			"name": "BSU Embajada de Brasil Mercosur",
-			"position": "CCTV IPTV Monitoring and Security",
-			"url": "https://securityscorecard.com/",
-			"startDate": "2021-09-01",
-			"endDate": "2023-05-01",
-			"summary": "Supervised and managed monitoring and security systems for the Brazilian Embassy.",
-			"highlights": [
-				"Implemented and maintained CCTV systems."
-			]
-		},
-		{
-			"name": "Limport Montevideo",
-			"position": "CCTV IPTV Monitoring and Security",
-			"startDate": "2021-03-01",
-			"endDate": "2021-08-01",
-			"summary": "Installed and maintained monitoring and security equipment.",
-			"highlights": [
-				"Managed security equipment for large companies."
-			]
-		},
-		{
-			"name": "Emgef Matanzas",
-			"position": "Computer Science Specialist",
-			"startDate": "2016-03-01",
-			"endDate": "2018-01-01",
-			"summary": "Network administrator and software developer with experience in SQL and economic systems. Completed Cisco CND and Networking courses.",
-			"highlights": [
-				"Developed SQL-based systems for economic sectors."
-			]
-		},
-		{
-			"name": "ECOMAVI Matanzas",
-			"position": "Web Developer and Network Administrator",
-			"startDate": "2013-01-01",
-			"endDate": "2015-12-01",
-			"summary": "Developed websites and maintained hardware. Network administration and SQL system management.",
-			"highlights": [
-				"Maintained systems and developed web applications."
-			]
-		},
-		{
-			"name": "Universidad Camilos Cienfuegos Matanzas",
-			"position": "Calculus Instructor",
-			"startDate": "2013-01-01",
-			"endDate": "2015-12-01",
-			"summary": "Taught Calculus 4 to future computer and mechanical engineers. Trained in research methodology.",
-			"highlights": [
-				"Trained future engineers in advanced calculus."
-			]
-		},
-		{
-			"name": "Banco Central de Cuba Matanzas",
-			"position": "Computer Science Specialist and Accounting Auditor",
-			"startDate": "2008-09-01",
-			"endDate": "2010-09-01",
-			"summary": "Audited bank accounts and managed SQL databases for ATM systems.",
-			"highlights": [
-				"Implemented the SABIC banking system in Cuba."
-			]
-		}
-	],
-	"volunteer": [
-		{
-			"organization": "Organization",
-			"position": "Volunteer",
-			"url": "https://organization.com/",
-			"startDate": "2012-01-01",
-			"endDate": "2013-01-01",
-			"summary": "Description…",
-			"highlights": [
-				"Awarded 'Volunteer of the Month'"
-			]
-		}
-	],
-	"education": [
-		{
-			"institution": "Universidad de las Ciencias Informáticas Habana",
-			"url": "https://www.uci.cu/",
-			"area": "Computer Science Engineering",
-			"studyType": "Bachelor",
-			"startDate": "2003-09-01",
-			"endDate": "2008-07-01",
-			"score": "4.0"
-		}
-	],
-	"awards": [
-		{
-			"title": "Award",
-			"date": "2014-11-01",
-			"awarder": "Company",
-			"summary": "There is no spoon."
-		}
-	],
-	"certificates": [
-		{
-			"name": "AWS Developer, Architect & DevOps",
-			"date": "2023-01-01",
-			"issuer": "Udemy",
-			"url": "https://www.udemy.com"
-		},
-		{
-			"name": "Cisco CND",
-			"date": "2016-01-01",
-			"issuer": "Hyundai Habana",
-			"url": "https://www.cisco.com"
-		}
-	],
-	"publications": [
-		{
-			"name": "Publication",
-			"publisher": "Company",
-			"releaseDate": "2014-10-01",
-			"url": "https://publication.com",
-			"summary": "Description…"
-		}
+	  {
+		"name": "PackExpress Uruguay SAS",
+		"url": "https://www.packexpress.com.uy",
+		"position": "CRM ERP and Company Administration",
+		"startDate": "2023-05-01",
+		"endDate": "2023-10-01",
+		"summary": "Managed hosting servers, developed websites and an online store, handled banking accounts, and developed the invoicing system in ASP.NET C#, PHP, and JavaScript with barcodes and QR codes.",
+		"highlights": [
+		  "Developed web applications using ASP.NET C#.",
+		  "Implemented an invoicing system with QR and barcodes.",
+		  "Optimized existing applications."
+		]
+	  },
+	  {
+		"name": "BSU Embajada de Brasil Mercosur",
+		"position": "CCTV IPTV Monitoring and Security",
+		"url": "https://securityscorecard.com/",
+		"startDate": "2021-09-01",
+		"endDate": "2023-05-01",
+		"summary": "Supervised and managed monitoring and security systems for the Brazilian Embassy.",
+		"highlights": [
+		  "Implemented and maintained CCTV systems."
+		]
+	  },
+	  {
+		"name": "Limport Montevideo",
+		"position": "CCTV IPTV Monitoring and Security",
+		"startDate": "2021-03-01",
+		"endDate": "2021-08-01",
+		"summary": "Installed and maintained monitoring and security equipment.",
+		"highlights": [
+		  "Managed security equipment for large companies."
+		]
+	  },
+	  {
+		"name": "Emgef Matanzas",
+		"position": "Computer Science Specialist",
+		"startDate": "2016-03-01",
+		"endDate": "2018-01-01",
+		"summary": "Network administrator and software developer with experience in SQL and economic systems. Completed Cisco CND and Networking courses.",
+		"highlights": [
+		  "Developed SQL-based systems for economic sectors."
+		]
+	  },
+	  {
+		"name": "ECOMAVI Matanzas",
+		"position": "Web Developer and Network Administrator",
+		"startDate": "2013-01-01",
+		"endDate": "2015-12-01",
+		"summary": "Developed websites and maintained hardware. Network administration and SQL system management.",
+		"highlights": [
+		  "Maintained systems and developed web applications."
+		]
+	  },
+	  {
+		"name": "Universidad Camilos Cienfuegos Matanzas",
+		"position": "Calculus Instructor",
+		"startDate": "2013-01-01",
+		"endDate": "2015-12-01",
+		"summary": "Taught Calculus 4 to future computer and mechanical engineers. Trained in research methodology.",
+		"highlights": [
+		  "Trained future engineers in advanced calculus."
+		]
+	  },
+	  {
+		"name": "Banco Central de Cuba Matanzas",
+		"position": "Computer Science Specialist and Accounting Auditor",
+		"startDate": "2008-09-01",
+		"endDate": "2010-09-01",
+		"summary": "Audited bank accounts and managed SQL databases for ATM systems.",
+		"highlights": [
+		  "Implemented the SABIC banking system in Cuba."
+		]
+	  }
 	],
 	"skills": [
-		{
-			"name": "Java",
-			"level": "Advanced",
-			"keywords": [
-				"Backend",
-				"Web Development"
-			]
-		},
-		{
-			"name": "ASP.NET",
-			"level": "Advanced",
-			"keywords": [
-				"Web Development",
-				"Backend"
-			]
-		},
-		{
-			"name": "C#",
-			"level": "Advanced",
-			"keywords": [
-				"Web Development",
-				"Backend"
-			]
-		},
-		{
-			"name": "PHP",
-			"level": "Advanced",
-			"keywords": [
-				"Web Development",
-				"Backend"
-			]
-		},
-		{
-			"name": "SQL",
-			"level": "Advanced",
-			"keywords": [
-				"Databases",
-				"Backend"
-			]
-		},
-		{
-			"name": "MySQL",
-			"level": "Advanced",
-			"keywords": [
-				"Databases"
-			]
-		},
-		{
-			"name": "PostgreSQL",
-			"level": "Intermediate",
-			"keywords": [
-				"Databases"
-			]
-		},
-		{
-			"name": "Git",
-			"level": "Advanced",
-			"keywords": [
-				"Version Control",
-				"Collaboration"
-			]
-		},
-		{
-			"name": "JavaScript-html-css",
-			"level": "Advanced",
-			"keywords": [
-				"Version Control",
-				"Collaboration"
-			]
-		},
-		{
-			"name": "Strappi and React Native and other kind of mobile development",
-			"level": "Advanced",
-			"keywords": [
-				"Version Control",
-				"Collaboration"
-			]
-		},
-		{
-			"name": "AWS",
-			"level": "Certified",
-			"keywords": [
-				"Cloud",
-				"DevOps"
-			]
-		}
+	  {
+		"name": "Java",
+		"level": "Advanced",
+		"keywords": [
+		  "Backend",
+		  "Web Development",
+		  "Spring Framework (Core, MVC, Security, JPA)",
+		  "Hibernate",
+		  "Log4j/SLF4J"
+		]
+	  },
+	  {
+		"name": "ASP.NET",
+		"level": "Advanced",
+		"keywords": [
+		  "Web Development",
+		  "Backend"
+		]
+	  },
+	  {
+		"name": "C#",
+		"level": "Advanced",
+		"keywords": [
+		  "Web Development",
+		  "Backend"
+		]
+	  },
+	  {
+		"name": "PHP",
+		"level": "Advanced",
+		"keywords": [
+		  "Web Development",
+		  "Backend"
+		]
+	  },
+	  {
+		"name": "SQL",
+		"level": "Advanced",
+		"keywords": [
+		  "Databases",
+		  "Backend"
+		]
+	  },
+	  {
+		"name": "MySQL",
+		"level": "Advanced",
+		"keywords": [
+		  "Databases"
+		]
+	  },
+	  {
+		"name": "PostgreSQL",
+		"level": "Intermediate",
+		"keywords": [
+		  "Databases"
+		]
+	  },
+	  {
+		"name": "Angular",
+		"level": "Advanced",
+		"keywords": [
+		  "Frontend",
+		  "Web Development",
+		  "JavaScript",
+		  "Angular 2+",
+		  "JSP"
+		]
+	  },
+	  {
+		"name": "CSS & Bootstrap",
+		"level": "Advanced",
+		"keywords": [
+		  "Frontend",
+		  "UI Design"
+		]
+	  },
+	  {
+		"name": "Design Patterns",
+		"level": "Advanced",
+		"keywords": [
+		  "Factory",
+		  "Singleton",
+		  "Dependency Injection",
+		  "MVC"
+		]
+	  },
+	  {
+		"name": "Testing & Performance",
+		"level": "Advanced",
+		"keywords": [
+		  "JUnit",
+		  "Mockito",
+		  "JMeter",
+		  "Sonar",
+		  "DBUnit"
+		]
+	  },
+	  {
+		"name": "Git & GitFlow",
+		"level": "Advanced",
+		"keywords": [
+		  "Version Control",
+		  "Collaboration"
+		]
+	  },
+	  {
+		"name": "Cloud Services",
+		"level": "Advanced",
+		"keywords": [
+		  "AWS S3",
+		  "SQS",
+		  "SNS",
+		  "EC2",
+		  "CodeDeploy"
+		]
+	  },
+	  {
+		"name": "Docker",
+		"level": "Intermediate",
+		"keywords": [
+		  "Containerization"
+		]
+	  },
+	  {
+		"name": "Payment Platforms",
+		"level": "Advanced",
+		"keywords": [
+		  "Integration",
+		  "Payment Gateways"
+		]
+	  }
 	],
 	"languages": [
-		{
-			"language": "Spanish",
-			"fluency": "Native"
-		},
-		{
-			"language": "English",
-			"fluency": "Advanced"
-		}
-	],
-	"interests": [
-		{
-			"name": "Wildlife",
-			"keywords": [
-				"Ferrets",
-				"Unicorns"
-			]
-		}
-	],
-	"references": [
-		{
-			"name": "Jane Doe",
-			"reference": "Reference…"
-		}
-	],
-	"projects": [
-		{
-			"name": "PackExpress System",
-			"isActive": true,
-			"description": "An invoicing and delivery system using ASP.NET, C#, and barcodes.",
-			"highlights": [
-				"Developed the entire system from scratch.",
-				"Incorporated QR codes and barcodes for tracking."
-			],
-			"url": "https://www.packexpress.com.uy",
-			"github": "https://github.com/example/packexpress"
-		},
-		{
-			"name": "ECOMAVI Web Development",
-			"isActive": true,
-			"description": "Developed websites and managed network systems for ECOMAVI.",
-			"highlights": [
-				"Reduced website load times by 40%.",
-				"Improved network security."
-			],
-			"url": "https://www.ecomavi.com",
-			"github": "https://github.com/example/ecomavi"
-		}
+	  {
+		"language": "Spanish",
+		"fluency": "Native"
+	  },
+	  {
+		"language": "English",
+		"fluency": "Advanced"
+	  }
 	]
-}
+  }
+  
