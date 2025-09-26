@@ -116,7 +116,7 @@
 			"institution": "Universidad de las Ciencias Informáticas Habana",
 			"url": "https://www.uci.cu/",
 			"area": "Computer Science Engineering",
-			"studyType": "Bachelor",
+			"studyType": "Bachelor and University career",
 			"startDate": "2003-09-01",
 			"endDate": "2008-07-01",
 			"score": "4.0"
@@ -380,6 +380,22 @@
 		},
 		{
 			"language": "English",
+			"fluency": "Advanced"
+		}
+		{
+			"language": "French",
+			"fluency": "Advanced"
+		}
+		{
+			"language": "German",
+			"fluency": "Advanced"
+		}
+		{
+			"language": "Portuguese",
+			"fluency": "Advanced"
+		}
+		{
+			"language": "Italian and Netherland language",
 			"fluency": "Advanced"
 		}
 	],
